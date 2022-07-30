@@ -13,5 +13,5 @@
 &ensp;
 
 
-![image1](screenshots/image.png)
+<img src=screenshots/image.png  width="300" height = "600"/>
 
